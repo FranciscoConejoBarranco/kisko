@@ -20,7 +20,6 @@ import { RouterModule } from "@angular/router";
             </p>
           </div>
           <div>
-            </p>
             <div class="flex gap-5 max-sm:justify-center">
               <a
                 href="https://instagram.com/kiskomai"
