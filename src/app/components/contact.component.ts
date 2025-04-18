@@ -18,6 +18,7 @@ import { CommonModule } from "@angular/common";
         <a
           href="https://www.instagram.com/kiskomai/"
           target="_blank"
+          rel="noopener noreferrer"
           class="inline-flex  items-center px-10 py-5 text-xl font-semibold text-white no-underline transition-all cursor-pointer pointer-events-auto duration-[0.3s] ease-[ease] rounded-[30px] shadow-[0_5px_15px_rgba(100,100,100,0.3)] hover:transform hover:-translate-y-3 hover:scale-102 hover:shadow-[0_8px_25px_rgba(100,100,100,0.5)]"
         >
           <i class="fab fa-instagram text-2xl"></i>

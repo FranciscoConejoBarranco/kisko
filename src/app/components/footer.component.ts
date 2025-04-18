@@ -20,24 +20,12 @@ import { RouterModule } from "@angular/router";
             </p>
           </div>
           <div>
-            <h4 class="mb-5 text-lg font-semibold text-white">
-              Sígueme
-            </h4>
-            <p class="mb-5 text-base leading-relaxed text-white text-opacity-70">
-              <span class="cursor-pointer pointer-events-auto">
-                instagram kiskomai
-              </span>
-              <br />
-              <span class="cursor-pointer pointer-events-auto">
-                tiktok kiskomai
-              </span>
-              <br />
-              <br />
             </p>
             <div class="flex gap-5 max-sm:justify-center">
               <a
                 href="https://instagram.com/kiskomai"
                 target="_blank"
+                rel="noopener noreferrer"
                 class="social-icon"
               >
                 <i class="fab fa-instagram"></i>
